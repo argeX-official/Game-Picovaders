@@ -1,20 +1,23 @@
-# picovaders
-## Description
-picovaders is a space invaders-like shooting game for Arduboy.
+## **Game**
 
-## Instructions
-Move the cannon and hit the aliens and UFOs.
+<img src="game.svg" width="100%"><br/>
 
-You have 3 cannons. One cannon will be added when your score reached 1500 points.
+This project has been developed by [developer][1] and forked directly from [original repo][2].
 
-* Start : A button, or B button for silent mode.
-* Move : LEFT and RIGHT 
+You can read the original README file from [here][3].
 
-## Installation
+You can download the .hex file of this project **compiled for watchX** from [here][4].
 
-1. Download Zip or Git Clone from: https://github.com/boochow/picovaders
-2. Open picovaders.ino with Arduino IDE
-3. Upload to your Arduboy
+There is no original README file released by the developer.
 
-## Tips
-You may need a magnifying glass :-)
+## **License**
+
+This project has been released under the MIT License by it's developer.
+
+The full document can be found in the [LICENSE][5] file.
+
+[1]: Developer
+[2]: Orijinal-Repo
+[3]: Orijinal-Readme
+[4]: watchX-Hex
+[5]: Lisans
